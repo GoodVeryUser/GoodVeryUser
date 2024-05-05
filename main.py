@@ -1,3 +1,1 @@
-import math
-
-print("Square root: " + str(math.sqrt(float(input("Enter any number: ")))))
+print(f"Square root: {float(input("Enter any number: "))**0.5}")
